@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>27F2FD29-738F-4D8C-B70D-8EB66881787B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6EE9EB1BA7F6BE985A00BCBE1E7C9C73043D5A2E</key>
+		<string>github.com:iwaorz/StoryboardTutorialSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StoryboardTutorialSample/StoryboardTutorialSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6EE9EB1BA7F6BE985A00BCBE1E7C9C73043D5A2E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:iwaorz/StoryboardTutorialSample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6EE9EB1BA7F6BE985A00BCBE1E7C9C73043D5A2E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6EE9EB1BA7F6BE985A00BCBE1E7C9C73043D5A2E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StoryboardTutorialSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
